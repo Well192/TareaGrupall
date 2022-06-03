@@ -1,2 +1,2 @@
 # TareaGrupall
-Note;: Trabajamos en grupo
+Nota: Trabajamos en grupo
